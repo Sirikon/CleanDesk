@@ -1,0 +1,48 @@
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\bin\Debug\CleanDesk2.exe
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\bin\Debug\CleanDesk2.pdb
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\bin\Debug\CleanDesk2.xml
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\CleanDesk2.Form1.resources
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\CleanDesk2.Resources.resources
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\CleanDesk2.exe
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\CleanDesk2.xml
+C:\Users\Sirikon\AppData\Local\Temporary Projects\CleanDesk2\obj\x86\Debug\CleanDesk2.pdb
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk2.Form1.resources
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk2.Resources.resources
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CDConfig.exe
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CDConfig.pdb
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CDConfig.xml
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CleanDesk.exe
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CleanDesk.pdb
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CleanDesk.xml
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.exe
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.xml
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.pdb
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CDUpdate.dll
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CDUpdate.pdb
+C:\Users\Sirikon\documents\visual studio 2010\Projects\CleanDesk2\CleanDesk2\bin\Debug\CDUpdate.xml
+C:\Users\Sirikon\Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.exe
+C:\Users\Sirikon\Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.xml
+C:\Users\Sirikon\Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.pdb
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.exe
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.xml
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk.pdb
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CleanDesk.exe
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CleanDesk.pdb
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CleanDesk.xml
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CDConfig.exe
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CDUpdate.dll
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CDConfig.pdb
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CDConfig.xml
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CDUpdate.pdb
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\bin\Debug\CDUpdate.xml
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk2.Form1.resources
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\CleanDesk2.Resources.resources
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sirikon\Documents\My Dropbox\VB\CleanDesk2\CleanDesk2\obj\x86\Debug\GenerateResource.write.1.tlog
